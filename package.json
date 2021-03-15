@@ -1,6 +1,6 @@
 {
   "name": "@arcadedefi/arcade-uikit",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "description": "Set of UI components for pancake projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -77,7 +77,9 @@
     "@types/styled-system": "^5.1.10",
     "lodash": "^4.17.20",
     "react-transition-group": "^4.4.1",
-    "styled-system": "^5.1.5"
+    "styled-system": "^5.1.5",
+    "yar": "^9.1.0",
+    "yarn": "^1.22.10"
   },
   "bugs": {
     "url": "https://github.com/SecousseClama/yieldlab-uikit/issues"
