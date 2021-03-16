@@ -67,23 +67,16 @@ export const links = [
 
 export const socials = [
   {
-    label: "Telegram",
-    icon: "TelegramIcon",
-    items: [
-      {
-        label: "English",
-        href: "https://t.me/VikingSwapOfficial",
-      },
-      {
-        label: "Announcements",
-        href: "https://t.me/vikingswapannouncements",
-      },
-    ],
+      label: "Telegram",
+      icon: "TelegramIcon",
+      href: "https://t.me/joinchat/C6aRGioS1Tc3NDc0",
+          
+      
   },
   {
-    label: "Twitter",
-    icon: "TwitterIcon",
-    href: "https://twitter.com/vikingswap",
+      label: "Twitter",
+      icon: "TwitterIcon",
+      href: "https://twitter.com/FinanceArcade",
   },
 ];
 
